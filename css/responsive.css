@@ -1,0 +1,129 @@
+@media (max-width: 1199.98px) {
+	header .navbar-nav li.nav-item a.nav-link{
+	    padding: 0px 9px;
+	}
+	.button .input-group {
+	    width: 80%;
+	    float: left;
+	    margin: 0 5px 0 0px;
+	}
+
+}
+@media (max-width: 991.98px) {
+	header div#navbarNavDropdown {
+	    position: absolute;
+	    top: 68px;
+	    z-index: 100;
+	    background: #0c0c0c;
+	    width: 100%;
+	    left: 0;
+	    right: 0;
+	    padding: 20px 10px;
+	}
+	header .navbar-nav li.nav-item a.nav-link {
+		color: #fff;
+	}
+	header .navbar-nav li.nav-item a.nav-link:focus {
+		color: #fff;
+	}
+	header ul.navbar-nav.ml-auto li.nav-item {
+	    padding-bottom: 12px;
+	}
+	.slidcontant {
+		width: 100%;
+		margin: 0px auto;
+	}
+	.slidcontant h2 {
+		font-size: 30px !important; 
+		margin: 0px 10px !important;
+	}
+	.slidcontant img.app_download {
+	    max-width: 160px;
+	    height: 46px !important;
+	    margin: 25px auto !important;
+	}
+	.home_banner_slider .item img {
+		height: 560px;
+		margin: 0px;
+	}
+	.slidcontant img.img-fluid {
+		height: 35px !important;
+		width: 35px !important; 
+	}
+	.download_contant h2 {
+		font-size: 20px;
+		line-height: 34px;
+		margin-bottom: 5px !important;
+	}
+	.download_contant img {
+	    width: 130px;
+	    margin-top: 0px !important;
+	}
+	.main_heading {
+		width: 90%;
+	}
+}
+@media (max-width: 767.98px) {
+
+	header .button {
+	    margin-bottom: 15px;
+	}
+	.button .input-group {
+	    width: calc(100% - 60px);
+	    margin: 0px 10px 0px 0px;
+	}
+	header {
+		padding: 0px;
+	}
+	header .navbar-expand-lg a.navbar-brand img {
+	    max-width: 110px;
+	    width: 100%;
+	}
+	.about_contant {
+		text-align: left;
+	}
+	.about_section {
+    	padding: 45px 0;
+	}
+	.artists_slider {
+		padding: 45px 0;
+	}
+	.download_contant {
+	    text-align: left;
+	    margin-top: 30px;
+	}
+	.Contest_img img.img-fluid {
+		margin-bottom: 10px;
+	}
+	.footer_section.follow .input-group.mb-3 {
+	    width: 60%;
+	}
+	.download_application {
+		padding: 60px 10px;
+	}
+	.artists .artists_infom {
+		width: 500px;
+	}
+	.artists .artists_box {
+		width: 100%;
+	}
+	.get_in_inner {
+	    padding: 0px 15px;
+	}
+	.get_in_inner form .form_group textarea {
+	    min-height: 150px;
+	}
+	header.sticky .navbar-expand-lg a.navbar-brand img {
+	    max-width: 100px;
+	}
+	.about_section .row {
+	    flex-direction: column-reverse;
+	}
+	h2.custom_heading {
+		font-size: 24px;
+	}
+	h4.custom_subheading {
+		margin-top: 5px;
+	}
+
+}
